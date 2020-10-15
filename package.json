@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shaunakg/talkwithmeta/issues"
   },
-  "homepage": "https://github.com/shaunakg/talkwithmeta#readme"
+  "homepage": "https://github.com/shaunakg/talkwithmeta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
